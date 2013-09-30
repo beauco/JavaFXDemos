@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="OneClassGauge.jnlp">
   <information>
-    <title>Demo</title>
+    <title>Demo Gauge</title>
     <vendor>Unknown vendor</vendor>
     <description>Sample JavaFX 2.0 application.</description>
     <offline-allowed/>
@@ -11,7 +11,12 @@
   </resources>
   <resources>
     <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
-    <jar href="OneClassGauge.jar" size="34290" download="eager" />
+    <jar href="Ensemble.jar" size="9656885" download="eager" />
+    <jar href="OneClassGauge.jar" size="35563" download="eager" />
+    <jar href="controlsfx-8.0.2-developer-preview-2/controlsfx-8.0.2-developer-preview-2-samples.jar" size="240501" download="eager" />
+    <jar href="controlsfx-8.0.2-developer-preview-2/controlsfx-8.0.2-developer-preview-2.jar" size="460855" download="eager" />
+    <jar href="jfxtras-labs-2.2-r6-20130915.175049-10.jar" size="1741306" download="eager" />
+    <jar href="jfxtras-labs-8.0-r1-20130915.185605-2.jar" size="1511439" download="eager" />
   </resources>
   <applet-desc  width="600" height="400" main-class="com.javafx.main.NoJavaFXFallback"  name="OneClassGauge" >
     <param name="requiredFXVersion" value="2.2+"/>
