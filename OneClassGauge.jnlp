@@ -12,7 +12,7 @@
   <resources>
     <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
     <jar href="Ensemble.jar" size="9656885" download="eager" />
-    <jar href="OneClassGauge.jar" size="37271" download="eager" />
+    <jar href="OneClassGauge.jar" size="37078" download="eager" />
     <jar href="controlsfx-8.0.2-developer-preview-2/controlsfx-8.0.2-developer-preview-2-samples.jar" size="240501" download="eager" />
     <jar href="controlsfx-8.0.2-developer-preview-2/controlsfx-8.0.2-developer-preview-2.jar" size="460855" download="eager" />
     <jar href="jfxtras-labs-2.2-r6-20130915.175049-10.jar" size="1741306" download="eager" />
